@@ -4,7 +4,7 @@
 
 ## Description
 
-The following project contains matlab implementation of algorithms for:
+The following project contains python implementation of algorithms for:
 
 - Linear Regression, Bayesian Linear Regression, L1 and L2 regularization ([Assignment 1](Lab1.ipynb))
 - Logistic Regression, Multi-Layer Neural Networks ([Assignment 2](Lab2.ipynb))
