@@ -1,5 +1,32 @@
-# ml1
+# Machine Learning 1 Assignments
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](LICENSE)
 
-Machine Learning 1 Assigments
+## Description
+
+The following project contains matlab implementation of algorithms for:
+
+- Linear Regression, Bayesian Linear Regression, L1 and L2 regularization ([Assignment 1](Lab1.ipynb))
+- Logistic Regression, Multi-Layer Neural Networks ([Assignment 2](Lab2.ipynb))
+- Gaussian Process Regression ([Assignment 3](Lab3.ipynb))
+
+In addition, there are written solutions for 5 homeworks to acompany them:
+
+- Probability Theory, Basic Linear Algebra and Derivatives, MAP solution for Linear Regression ([Homework Week 1](homework1.pdf))
+- Posterior predictive distributions ([Homework Week 2](homework2.pdf))
+- Naive Bayes Spam Classication, Multi-class Logistic Regression ([Homework Week 3](homework3.pdf))
+- Kernel Outlier Detection ([Homework Week 5](homework5.pdf))
+- Mixture Models ([Homework Week 6](homework6.pdf))
+
+## Dependencies
+
+- IPython
+- numpy
+- scipy
+- matplotlib
+
+## Copyright
+
+Copyright (c) 2016 Minh Ngo
+
+This project is distributed under the [MIT license](LICENSE). It's a part of the Machine Learning 1 course taught by Ted Meeds and Max Welling at the University of Amsterdam. Please follow the [UvA regulations governing Fraud and Plagiarism](http://student.uva.nl/en/az/content/plagiarism-and-fraud/plagiarism-and-fraud.html) in the case if you are a student.
