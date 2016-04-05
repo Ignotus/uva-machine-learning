@@ -4,6 +4,8 @@
 
 ## Description
 
+### Machine Learning 1
+
 The following project contains python implementation of algorithms for:
 
 - Linear Regression, Bayesian Linear Regression, L1 and L2 regularization ([Assignment 1](Lab1.ipynb))
@@ -18,6 +20,10 @@ In addition, there are written solutions for 5 homeworks to acompany them:
 - Kernel Outlier Detection ([Homework Week 5](homework5.pdf))
 - Mixture Models ([Homework Week 6](homework6.pdf))
 
+### Machine Learning 2
+
+- Probability Distribution ([Homework Week 1](homework7.pdf))
+
 ## Dependencies
 
 - IPython
@@ -27,6 +33,6 @@ In addition, there are written solutions for 5 homeworks to acompany them:
 
 ## Copyright
 
-Copyright (c) 2016 Minh Ngo
+Copyright (c) 2015, 2016 Minh Ngo
 
-This project is distributed under the [MIT license](LICENSE). It's a part of the Machine Learning 1 course taught by Ted Meeds and Max Welling at the University of Amsterdam. Please follow the [UvA regulations governing Fraud and Plagiarism](http://student.uva.nl/en/az/content/plagiarism-and-fraud/plagiarism-and-fraud.html) in the case if you are a student.
+This project is distributed under the [MIT license](LICENSE). It's a part of the Machine Learning 1 and the Machine Learning 2 courses taught by Ted Meeds, Joris Mooij and Max Welling at the University of Amsterdam. Please follow the [UvA regulations governing Fraud and Plagiarism](http://student.uva.nl/en/az/content/plagiarism-and-fraud/plagiarism-and-fraud.html) in the case if you are a student.
