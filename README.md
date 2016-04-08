@@ -22,6 +22,12 @@ In addition, there are written solutions for 5 homeworks to acompany them:
 
 ### Machine Learning 2
 
+Assignments:
+
+- Independent Component Analysis ([Assignment 1](Lab4.ipynb))
+
+Homeworks:
+
 - Probability Distribution ([Homework Week 1](homework7.pdf))
 
 ## Dependencies
