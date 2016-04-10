@@ -1,4 +1,4 @@
-# Machine Learning 1 Assignments
+# Machine Learning Assignments
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](LICENSE)
 
