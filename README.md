@@ -29,6 +29,7 @@ Assignments:
 Homeworks:
 
 - Probability Distribution ([Homework Week 1](homework7.pdf))
+- Graphical Models ([Homework Week 2](homework8.pdf))
 
 ## Dependencies
 
