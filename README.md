@@ -25,6 +25,7 @@ In addition, there are written solutions for 5 homeworks to acompany them:
 Assignments:
 
 - Independent Component Analysis ([Assignment 1](Lab4.ipynb))
+- Graphical Models ([Assignment 2](Lab5.ipynb))
 
 Homeworks:
 
@@ -41,5 +42,6 @@ Homeworks:
 ## Copyright
 
 Copyright (c) 2015, 2016 Minh Ngo
+Copyright (c) 2015, 2016 Arthur Bražinskas (only python code)
 
 This project is distributed under the [MIT license](LICENSE). It's a part of the Machine Learning 1 and the Machine Learning 2 courses taught by Ted Meeds, Joris Mooij and Max Welling at the University of Amsterdam. Please follow the [UvA regulations governing Fraud and Plagiarism](http://student.uva.nl/en/az/content/plagiarism-and-fraud/plagiarism-and-fraud.html) in the case if you are a student.
