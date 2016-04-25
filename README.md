@@ -31,6 +31,7 @@ Homeworks:
 
 - Probability Distribution ([Homework Week 1](homework7.pdf))
 - Graphical Models ([Homework Week 2](homework8.pdf))
+- Factor Graphs ([Homework Week 3](homework9.pdf))
 
 ## Dependencies
 
