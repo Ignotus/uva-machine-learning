@@ -32,6 +32,8 @@ Homeworks:
 - Probability Distribution ([Homework Week 1](homework7.pdf))
 - Graphical Models ([Homework Week 2](homework8.pdf))
 - Factor Graphs ([Homework Week 3](homework9.pdf))
+- Expectation Maximization ([Homework Week 4](homework10.pdf))
+- Variational EM, Sampling Methods ([Homework Week 5](homework11.pdf))
 
 ## Dependencies
 
