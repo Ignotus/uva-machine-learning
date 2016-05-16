@@ -26,6 +26,7 @@ Assignments:
 
 - Independent Component Analysis ([Assignment 1](Lab4.ipynb))
 - Graphical Models ([Assignment 2](Lab5.ipynb))
+- Bayesian PCA ([Assignment 3](Lab6.ipynb)) ^
 
 Homeworks:
 
@@ -41,6 +42,10 @@ Homeworks:
 - numpy
 - scipy
 - matplotlib
+
+## Known Issue
+
+^ Bayesian PCA may not work properly. With a high chance there is some problem in derivation.
 
 ## Copyright
 
