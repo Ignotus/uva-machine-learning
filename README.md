@@ -48,10 +48,6 @@ Homeworks:
 
 ^ Bayesian PCA may not work properly. With a high chance there is some problem in derivation.
 
-## References
-
-.. [1]:
-
 ## Copyright
 
 Copyright (c) 2015, 2016 Minh Ngo
