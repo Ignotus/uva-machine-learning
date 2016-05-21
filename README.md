@@ -26,6 +26,7 @@ Assignments:
 
 - Independent Component Analysis ([Assignment 1](Lab4.ipynb))
 - Graphical Models ([Assignment 2](Lab5.ipynb))
+- Bayesian PCA ([Assignment 3](Lab6.ipynb)) ^
 
 Homeworks:
 
@@ -34,6 +35,7 @@ Homeworks:
 - Factor Graphs ([Homework Week 3](homework9.pdf))
 - Expectation Maximization ([Homework Week 4](homework10.pdf))
 - Variational EM, Sampling Methods ([Homework Week 5](homework11.pdf))
+- Causality ([Homework Week 6](homework12.pdf))
 
 ## Dependencies
 
@@ -41,6 +43,14 @@ Homeworks:
 - numpy
 - scipy
 - matplotlib
+
+## Known Issue
+
+^ Bayesian PCA may not work properly. With a high chance there is some problem in derivation.
+
+## References
+
+.. [1]:
 
 ## Copyright
 
